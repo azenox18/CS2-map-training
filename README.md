@@ -43,8 +43,9 @@ docs/
 ## Documentation
 
 - [Installation & lancement](docs/INSTALLATION.md)
+- [Guide Hammer clic par clic (recommandé)](docs/GUIDE_HAMMER_CLIC_PAR_CLIC.md)
 - [Toutes les commandes](docs/COMMANDES.md)
-- [Construire la map dans Hammer](docs/CONSTRUCTION_MAP.md)
+- [Construire la map dans Hammer (résumé technique)](docs/CONSTRUCTION_MAP.md)
 
 ## Personnalisation rapide
 
