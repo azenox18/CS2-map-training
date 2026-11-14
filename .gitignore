@@ -1,0 +1,6 @@
+*.vpk
+*.vpk_tmp
+*.bsp
+*.nav
+*.cache
+*.log
